@@ -1,0 +1,10 @@
+\documentclass[10pt]{article}
+\author{Aldeon}
+\title{git is fun}
+\begin{document}
+		\maketitle
+		
+		This is a super awrsome scientific paper.
+		I hope I win a prize
+		
+\end{document}
