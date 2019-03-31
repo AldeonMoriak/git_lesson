@@ -3,3 +3,4 @@ collaborator's changes.
 
 Just wanted to add a line.
 
+I should do it the old way.
